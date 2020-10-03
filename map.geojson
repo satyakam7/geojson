@@ -1,0 +1,929 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T04:13:09.215Z",
+                "category": "Rain",
+                "description": "No Rain",
+                "description_id": "a1",
+                "obsval": 0.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0005339,
+                    75.3616136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:37:56.697Z",
+                "category": "LandSlide",
+                "description": "Landslide",
+                "description_id": "101",
+                "obsval": 0.573
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.0845936,
+                    -7.9454654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:37:57.855Z",
+                "category": "Visibility",
+                "description": "Dense fog",
+                "description_id": "102",
+                "obsval": 0.896
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.640078,
+                    3.1035814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:37:59.003Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "103",
+                "obsval": 0.074
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.1277854,
+                    44.7984858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:00.391Z",
+                "category": "Storm",
+                "description": "Extreme",
+                "description_id": "104",
+                "obsval": 0.366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.527871,
+                    28.109598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:01.677Z",
+                "category": "Lightning",
+                "description": "Cloud to Ground",
+                "description_id": "105",
+                "obsval": 0.424
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.5039922,
+                    7.5257028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:03.159Z",
+                "category": "Rain",
+                "description": "Heavy Rain",
+                "description_id": "106",
+                "obsval": 0.521
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6773447,
+                    44.6380305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:04.514Z",
+                "category": "Flooding",
+                "description": "Minor",
+                "description_id": "107",
+                "obsval": 0.765
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.1041583,
+                    12.573631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:06.020Z",
+                "category": "LandSlide",
+                "description": "Mudslide",
+                "description_id": "108",
+                "obsval": 0.339
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.482606,
+                    29.605376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:07.160Z",
+                "category": "Visibility",
+                "description": "Smog",
+                "description_id": "109",
+                "obsval": 0.211
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.416357,
+                    39.928353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:08.479Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "110",
+                "obsval": 0.885
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.296821,
+                    59.927607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:09.601Z",
+                "category": "Storm",
+                "description": "Extensive",
+                "description_id": "111",
+                "obsval": 0.416
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.715716,
+                    34.313074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:10.789Z",
+                "category": "Lightning",
+                "description": "Cloud-to-air",
+                "description_id": "112",
+                "obsval": 0.647
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3956096,
+                    52.0895358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:12.004Z",
+                "category": "Rain",
+                "description": "No rain",
+                "description_id": "113",
+                "obsval": 0.779
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.4970116,
+                    -23.1770273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:13.167Z",
+                "category": "Flooding",
+                "description": "Severe",
+                "description_id": "114",
+                "obsval": 0.663
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.8011498,
+                    -8.0650276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:14.373Z",
+                "category": "LandSlide",
+                "description": "Landslide",
+                "description_id": "115",
+                "obsval": 0.244
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.3027856,
+                    25.8038312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:15.715Z",
+                "category": "Visibility",
+                "description": "Dense fog",
+                "description_id": "116",
+                "obsval": 0.228
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.355232,
+                    34.262709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:17.020Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "117",
+                "obsval": 0.366
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.39764,
+                    27.30459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:18.233Z",
+                "category": "Storm",
+                "description": "Extreme",
+                "description_id": "118",
+                "obsval": 0.118
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.4475479,
+                    52.6545685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:19.351Z",
+                "category": "Lightning",
+                "description": "Cloud to Ground",
+                "description_id": "119",
+                "obsval": 0.356
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.3090948,
+                    -36.9072882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:20.628Z",
+                "category": "Rain",
+                "description": "Heavy Rain",
+                "description_id": "120",
+                "obsval": 0.501
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.6026459,
+                    32.5171226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:21.844Z",
+                "category": "Flooding",
+                "description": "Minor",
+                "description_id": "121",
+                "obsval": 0.753
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.2631971,
+                    52.7865762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:23.035Z",
+                "category": "LandSlide",
+                "description": "Mudslide",
+                "description_id": "122",
+                "obsval": 0.594
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8179315,
+                    56.029768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:24.305Z",
+                "category": "Visibility",
+                "description": "Smog",
+                "description_id": "123",
+                "obsval": 0.901
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.533333,
+                    14.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:25.640Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "124",
+                "obsval": 0.167
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.1658261,
+                    -21.680817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:26.809Z",
+                "category": "Storm",
+                "description": "Extensive",
+                "description_id": "125",
+                "obsval": 0.68
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.318712,
+                    39.884007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:28.011Z",
+                "category": "Lightning",
+                "description": "Cloud-to-air",
+                "description_id": "126",
+                "obsval": 0.533
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.066667,
+                    -7.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:29.091Z",
+                "category": "Rain",
+                "description": "No rain",
+                "description_id": "127",
+                "obsval": 0.716
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.150312,
+                    36.423873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:30.457Z",
+                "category": "Flooding",
+                "description": "Severe",
+                "description_id": "128",
+                "obsval": 0.838
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.758719,
+                    42.746368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:31.673Z",
+                "category": "LandSlide",
+                "description": "Landslide",
+                "description_id": "129",
+                "obsval": 0.002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2125126,
+                    13.8801742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:32.829Z",
+                "category": "Visibility",
+                "description": "Dense fog",
+                "description_id": "130",
+                "obsval": 0.137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0725041,
+                    41.9585475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:33.957Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "131",
+                "obsval": 0.53
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0759947,
+                    43.6652083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:35.163Z",
+                "category": "Storm",
+                "description": "Extreme",
+                "description_id": "132",
+                "obsval": 0.592
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5896168,
+                    59.8503114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:36.309Z",
+                "category": "Lightning",
+                "description": "Cloud to Ground",
+                "description_id": "133",
+                "obsval": 0.359
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.78464,
+                    32.0409755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:37.484Z",
+                "category": "Rain",
+                "description": "Heavy Rain",
+                "description_id": "134",
+                "obsval": 0.008
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7230239,
+                    48.0323166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:38.612Z",
+                "category": "Flooding",
+                "description": "Minor",
+                "description_id": "135",
+                "obsval": 0.32
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.8634095,
+                    53.8035238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:39.725Z",
+                "category": "LandSlide",
+                "description": "Mudslide",
+                "description_id": "136",
+                "obsval": 0.309
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.0736389,
+                    -6.3477635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:40.962Z",
+                "category": "Visibility",
+                "description": "Smog",
+                "description_id": "137",
+                "obsval": 0.278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.1038619,
+                    -31.3317595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:42.187Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "138",
+                "obsval": 0.675
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.8909572,
+                    16.9296881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:43.427Z",
+                "category": "Storm",
+                "description": "Extensive",
+                "description_id": "139",
+                "obsval": 0.078
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8426989,
+                    39.859131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:44.694Z",
+                "category": "Lightning",
+                "description": "Cloud-to-air",
+                "description_id": "140",
+                "obsval": 0.941
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.8672171,
+                    27.0449005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:45.882Z",
+                "category": "Rain",
+                "description": "No rain",
+                "description_id": "141",
+                "obsval": 0.419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.317187,
+                    43.1237608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:47.032Z",
+                "category": "Flooding",
+                "description": "Severe",
+                "description_id": "142",
+                "obsval": 0.462
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8709393,
+                    59.0433753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:48.274Z",
+                "category": "LandSlide",
+                "description": "Landslide",
+                "description_id": "143",
+                "obsval": 0.465
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.0615212,
+                    47.7520885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:49.443Z",
+                "category": "Visibility",
+                "description": "Dense fog",
+                "description_id": "144",
+                "obsval": 0.756
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.8162784,
+                    -2.9997434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:50.718Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "145",
+                "obsval": 0.373
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6405292,
+                    45.4698284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:51.904Z",
+                "category": "Storm",
+                "description": "Extreme",
+                "description_id": "146",
+                "obsval": 0.61
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1858272,
+                    12.3420676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:53.026Z",
+                "category": "Lightning",
+                "description": "Cloud to Ground",
+                "description_id": "147",
+                "obsval": 0.768
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.8651371,
+                    27.5277132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:54.202Z",
+                "category": "Rain",
+                "description": "Heavy Rain",
+                "description_id": "148",
+                "obsval": 0.431
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.0479668,
+                    50.7720302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:55.435Z",
+                "category": "Flooding",
+                "description": "Minor",
+                "description_id": "149",
+                "obsval": 0.491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.2111608,
+                    -31.4561755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:56.724Z",
+                "category": "LandSlide",
+                "description": "Mudslide",
+                "description_id": "150",
+                "obsval": 0.598
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2512728,
+                    -3.446207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:57.988Z",
+                "category": "Visibility",
+                "description": "Smog",
+                "description_id": "151",
+                "obsval": 0.628
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.9299089,
+                    18.4885697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:38:59.169Z",
+                "category": "Earthquake",
+                "description": "Severe",
+                "description_id": "152",
+                "obsval": 0.657
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2559678,
+                    43.6953508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "obstime": "2020-10-03T06:39:00.461Z",
+                "category": "Storm",
+                "description": "Extensive",
+                "description_id": "153",
+                "obsval": 0.249
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.2822768,
+                    37.8484284
+                ]
+            }
+        }
+    ]
+}
